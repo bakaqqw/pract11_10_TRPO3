@@ -1,0 +1,22 @@
+{
+  "ID": 6621879,
+  "Name": "Дмитрий",
+  "LastName": "Телепов",
+  "MiddleName": "Михайлович",
+  "Number": "8 912 635 7909",
+  "Birthday": "24.10.2026",
+  "Age": 0,
+  "AgeStatus": "Не указан",
+  "LastAppointment": "9/14/2022 12:00:00 AM",
+  "LastDoctor": 28913,
+  "Diagnosis": "Травма головы",
+  "Recomendations": "Лежать, не нагружаться ",
+  "AppointmentStories": [
+    {
+      "LastAppointment": "9/14/2022 12:00:00 AM",
+      "LastDoctor": 28913,
+      "Diagnosis": "Травма головы",
+      "Recomendations": "Лежать, не нагружаться "
+    }
+  ]
+}

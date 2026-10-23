@@ -1,0 +1,301 @@
+C:\Users\User\Desktop\pract9_trpo\obj\Debug\net8.0-windows\Class\Page1.g.cs
+C:\Users\User\Desktop\pract9_trpo\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\User\Desktop\pract9_trpo\obj\Debug\net8.0-windows\Pages\ChangingPatient.g.cs
+C:\Users\User\Desktop\pract9_trpo\obj\Debug\net8.0-windows\Pages\CreatePatient.g.cs
+C:\Users\User\Desktop\pract9_trpo\obj\Debug\net8.0-windows\Pages\Login.g.cs
+C:\Users\User\Desktop\pract9_trpo\obj\Debug\net8.0-windows\Pages\MainPage.g.cs
+C:\Users\User\Desktop\pract9_trpo\obj\Debug\net8.0-windows\Pages\Reception.g.cs
+C:\Users\User\Desktop\pract9_trpo\obj\Debug\net8.0-windows\Pages\Registration.g.cs
+C:\Users\User\Desktop\pract9_trpo\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\User\Desktop\pract9_trpo\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\User\Desktop\pract9_trpo\obj\Debug\net8.0-windows\pract9_trpo_MarkupCompile.cache
+C:\Users\User\Desktop\pract9_trpo\obj\Debug\net8.0-windows\pract9_trpo_MarkupCompile.lref
+C:\Users\User\Desktop\pract9_trpo\bin\Debug\net8.0-windows\pract9_trpo.exe
+C:\Users\User\Desktop\pract9_trpo\bin\Debug\net8.0-windows\pract9_trpo.deps.json
+C:\Users\User\Desktop\pract9_trpo\bin\Debug\net8.0-windows\pract9_trpo.runtimeconfig.json
+C:\Users\User\Desktop\pract9_trpo\bin\Debug\net8.0-windows\pract9_trpo.dll
+C:\Users\User\Desktop\pract9_trpo\bin\Debug\net8.0-windows\pract9_trpo.pdb
+C:\Users\User\Desktop\pract9_trpo\obj\Debug\net8.0-windows\Class\Page1.baml
+C:\Users\User\Desktop\pract9_trpo\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\User\Desktop\pract9_trpo\obj\Debug\net8.0-windows\Pages\ChangingPatient.baml
+C:\Users\User\Desktop\pract9_trpo\obj\Debug\net8.0-windows\Pages\CreatePatient.baml
+C:\Users\User\Desktop\pract9_trpo\obj\Debug\net8.0-windows\Pages\Login.baml
+C:\Users\User\Desktop\pract9_trpo\obj\Debug\net8.0-windows\Pages\MainPage.baml
+C:\Users\User\Desktop\pract9_trpo\obj\Debug\net8.0-windows\Pages\Reception.baml
+C:\Users\User\Desktop\pract9_trpo\obj\Debug\net8.0-windows\Pages\Registration.baml
+C:\Users\User\Desktop\pract9_trpo\obj\Debug\net8.0-windows\pract9_trpo.g.resources
+C:\Users\User\Desktop\pract9_trpo\obj\Debug\net8.0-windows\pract9_trpo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\pract9_trpo\obj\Debug\net8.0-windows\pract9_trpo.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\pract9_trpo\obj\Debug\net8.0-windows\pract9_trpo.AssemblyInfo.cs
+C:\Users\User\Desktop\pract9_trpo\obj\Debug\net8.0-windows\pract9_trpo.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\pract9_trpo\obj\Debug\net8.0-windows\pract9_trpo.dll
+C:\Users\User\Desktop\pract9_trpo\obj\Debug\net8.0-windows\refint\pract9_trpo.dll
+C:\Users\User\Desktop\pract9_trpo\obj\Debug\net8.0-windows\pract9_trpo.pdb
+C:\Users\User\Desktop\pract9_trpo\obj\Debug\net8.0-windows\pract9_trpo.genruntimeconfig.cache
+C:\Users\User\Desktop\pract9_trpo\obj\Debug\net8.0-windows\ref\pract9_trpo.dll
+C:\Users\User\Desktop\pract9_trpo\bin\Debug\net8.0-windows\pract9_trpo.dll.config
+C:\Users\User\Desktop\pract9_trpo\obj\Debug\net8.0-windows\Styles\Colors\DarkTheme.baml
+C:\Users\User\Desktop\pract9_trpo\obj\Debug\net8.0-windows\Styles\Colors\DefaultColors.baml
+C:\Users\User\Desktop\pract9_trpo\obj\Debug\net8.0-windows\Styles\UI\Button.baml
+C:\Users\User\Desktop\pract9_trpo\obj\Debug\net8.0-windows\Styles\UI\Controls.baml
+C:\Users\User\Desktop\pract9_trpo\obj\Debug\net8.0-windows\App.baml
+C:\Users\st310-07\Desktop\pract9_trpo\pract9_trpo\bin\Debug\net8.0-windows\pract9_trpo.exe
+C:\Users\st310-07\Desktop\pract9_trpo\pract9_trpo\bin\Debug\net8.0-windows\pract9_trpo.dll.config
+C:\Users\st310-07\Desktop\pract9_trpo\pract9_trpo\bin\Debug\net8.0-windows\pract9_trpo.deps.json
+C:\Users\st310-07\Desktop\pract9_trpo\pract9_trpo\bin\Debug\net8.0-windows\pract9_trpo.runtimeconfig.json
+C:\Users\st310-07\Desktop\pract9_trpo\pract9_trpo\bin\Debug\net8.0-windows\pract9_trpo.dll
+C:\Users\st310-07\Desktop\pract9_trpo\pract9_trpo\bin\Debug\net8.0-windows\pract9_trpo.pdb
+C:\Users\st310-07\Desktop\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\Styles\Colors\DarkTheme.baml
+C:\Users\st310-07\Desktop\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\Styles\Colors\DefaultColors.baml
+C:\Users\st310-07\Desktop\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\Styles\UI\Button.baml
+C:\Users\st310-07\Desktop\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\Styles\UI\Controls.baml
+C:\Users\st310-07\Desktop\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\Class\Page1.g.cs
+C:\Users\st310-07\Desktop\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\st310-07\Desktop\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\Pages\ChangingPatient.g.cs
+C:\Users\st310-07\Desktop\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\Pages\CreatePatient.g.cs
+C:\Users\st310-07\Desktop\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\Pages\Login.g.cs
+C:\Users\st310-07\Desktop\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\Pages\MainPage.g.cs
+C:\Users\st310-07\Desktop\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\Pages\Reception.g.cs
+C:\Users\st310-07\Desktop\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\Pages\Registration.g.cs
+C:\Users\st310-07\Desktop\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\st310-07\Desktop\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\st310-07\Desktop\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\pract9_trpo_MarkupCompile.cache
+C:\Users\st310-07\Desktop\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\pract9_trpo_MarkupCompile.lref
+C:\Users\st310-07\Desktop\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\App.baml
+C:\Users\st310-07\Desktop\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\Class\Page1.baml
+C:\Users\st310-07\Desktop\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\st310-07\Desktop\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\Pages\ChangingPatient.baml
+C:\Users\st310-07\Desktop\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\Pages\CreatePatient.baml
+C:\Users\st310-07\Desktop\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\Pages\Login.baml
+C:\Users\st310-07\Desktop\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\Pages\MainPage.baml
+C:\Users\st310-07\Desktop\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\Pages\Reception.baml
+C:\Users\st310-07\Desktop\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\Pages\Registration.baml
+C:\Users\st310-07\Desktop\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\pract9_trpo.g.resources
+C:\Users\st310-07\Desktop\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\pract9_trpo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\st310-07\Desktop\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\pract9_trpo.AssemblyInfoInputs.cache
+C:\Users\st310-07\Desktop\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\pract9_trpo.AssemblyInfo.cs
+C:\Users\st310-07\Desktop\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\pract9_trpo.csproj.CoreCompileInputs.cache
+C:\Users\st310-07\Desktop\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\pract9_trpo.dll
+C:\Users\st310-07\Desktop\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\refint\pract9_trpo.dll
+C:\Users\st310-07\Desktop\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\pract9_trpo.pdb
+C:\Users\st310-07\Desktop\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\pract9_trpo.genruntimeconfig.cache
+C:\Users\st310-07\Desktop\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\ref\pract9_trpo.dll
+C:\Users\st310-07\Desktop\pract9_trpo\pract9_trpo\pract9_trpo\bin\Debug\net8.0-windows\pract9_trpo.exe
+C:\Users\st310-07\Desktop\pract9_trpo\pract9_trpo\pract9_trpo\bin\Debug\net8.0-windows\pract9_trpo.dll.config
+C:\Users\st310-07\Desktop\pract9_trpo\pract9_trpo\pract9_trpo\bin\Debug\net8.0-windows\pract9_trpo.deps.json
+C:\Users\st310-07\Desktop\pract9_trpo\pract9_trpo\pract9_trpo\bin\Debug\net8.0-windows\pract9_trpo.runtimeconfig.json
+C:\Users\st310-07\Desktop\pract9_trpo\pract9_trpo\pract9_trpo\bin\Debug\net8.0-windows\pract9_trpo.dll
+C:\Users\st310-07\Desktop\pract9_trpo\pract9_trpo\pract9_trpo\bin\Debug\net8.0-windows\pract9_trpo.pdb
+C:\Users\st310-07\Desktop\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\Styles\Colors\DarkTheme.baml
+C:\Users\st310-07\Desktop\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\Styles\Colors\DefaultColors.baml
+C:\Users\st310-07\Desktop\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\Styles\UI\Button.baml
+C:\Users\st310-07\Desktop\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\Styles\UI\Controls.baml
+C:\Users\st310-07\Desktop\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\Class\Page1.g.cs
+C:\Users\st310-07\Desktop\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\st310-07\Desktop\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\Pages\ChangingPatient.g.cs
+C:\Users\st310-07\Desktop\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\Pages\CreatePatient.g.cs
+C:\Users\st310-07\Desktop\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\Pages\Login.g.cs
+C:\Users\st310-07\Desktop\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\Pages\MainPage.g.cs
+C:\Users\st310-07\Desktop\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\Pages\Reception.g.cs
+C:\Users\st310-07\Desktop\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\Pages\Registration.g.cs
+C:\Users\st310-07\Desktop\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\st310-07\Desktop\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\st310-07\Desktop\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\pract9_trpo_MarkupCompile.cache
+C:\Users\st310-07\Desktop\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\pract9_trpo_MarkupCompile.lref
+C:\Users\st310-07\Desktop\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\App.baml
+C:\Users\st310-07\Desktop\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\Class\Page1.baml
+C:\Users\st310-07\Desktop\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\st310-07\Desktop\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\Pages\ChangingPatient.baml
+C:\Users\st310-07\Desktop\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\Pages\CreatePatient.baml
+C:\Users\st310-07\Desktop\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\Pages\Login.baml
+C:\Users\st310-07\Desktop\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\Pages\MainPage.baml
+C:\Users\st310-07\Desktop\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\Pages\Reception.baml
+C:\Users\st310-07\Desktop\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\Pages\Registration.baml
+C:\Users\st310-07\Desktop\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\pract9_trpo.g.resources
+C:\Users\st310-07\Desktop\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\pract9_trpo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\st310-07\Desktop\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\pract9_trpo.AssemblyInfoInputs.cache
+C:\Users\st310-07\Desktop\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\pract9_trpo.AssemblyInfo.cs
+C:\Users\st310-07\Desktop\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\pract9_trpo.csproj.CoreCompileInputs.cache
+C:\Users\st310-07\Desktop\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\pract9_trpo.dll
+C:\Users\st310-07\Desktop\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\refint\pract9_trpo.dll
+C:\Users\st310-07\Desktop\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\pract9_trpo.pdb
+C:\Users\st310-07\Desktop\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\pract9_trpo.genruntimeconfig.cache
+C:\Users\st310-07\Desktop\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\ref\pract9_trpo.dll
+C:\Users\User\Desktop\pract9_trpo\pract9_trpo\pract9_trpo\pract9_trpo\bin\Debug\net8.0-windows\pract9_trpo.exe
+C:\Users\User\Desktop\pract9_trpo\pract9_trpo\pract9_trpo\pract9_trpo\bin\Debug\net8.0-windows\pract9_trpo.dll.config
+C:\Users\User\Desktop\pract9_trpo\pract9_trpo\pract9_trpo\pract9_trpo\bin\Debug\net8.0-windows\pract9_trpo.deps.json
+C:\Users\User\Desktop\pract9_trpo\pract9_trpo\pract9_trpo\pract9_trpo\bin\Debug\net8.0-windows\pract9_trpo.runtimeconfig.json
+C:\Users\User\Desktop\pract9_trpo\pract9_trpo\pract9_trpo\pract9_trpo\bin\Debug\net8.0-windows\pract9_trpo.dll
+C:\Users\User\Desktop\pract9_trpo\pract9_trpo\pract9_trpo\pract9_trpo\bin\Debug\net8.0-windows\pract9_trpo.pdb
+C:\Users\User\Desktop\pract9_trpo\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\Styles\Colors\DarkTheme.baml
+C:\Users\User\Desktop\pract9_trpo\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\Styles\Colors\DefaultColors.baml
+C:\Users\User\Desktop\pract9_trpo\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\Styles\UI\Button.baml
+C:\Users\User\Desktop\pract9_trpo\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\Styles\UI\Controls.baml
+C:\Users\User\Desktop\pract9_trpo\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\Class\Page1.g.cs
+C:\Users\User\Desktop\pract9_trpo\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\User\Desktop\pract9_trpo\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\Pages\ChangingPatient.g.cs
+C:\Users\User\Desktop\pract9_trpo\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\Pages\CreatePatient.g.cs
+C:\Users\User\Desktop\pract9_trpo\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\Pages\Login.g.cs
+C:\Users\User\Desktop\pract9_trpo\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\Pages\MainPage.g.cs
+C:\Users\User\Desktop\pract9_trpo\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\Pages\Reception.g.cs
+C:\Users\User\Desktop\pract9_trpo\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\Pages\Registration.g.cs
+C:\Users\User\Desktop\pract9_trpo\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\User\Desktop\pract9_trpo\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\User\Desktop\pract9_trpo\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\pract9_trpo_MarkupCompile.cache
+C:\Users\User\Desktop\pract9_trpo\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\pract9_trpo_MarkupCompile.lref
+C:\Users\User\Desktop\pract9_trpo\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\App.baml
+C:\Users\User\Desktop\pract9_trpo\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\Class\Page1.baml
+C:\Users\User\Desktop\pract9_trpo\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\User\Desktop\pract9_trpo\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\Pages\ChangingPatient.baml
+C:\Users\User\Desktop\pract9_trpo\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\Pages\CreatePatient.baml
+C:\Users\User\Desktop\pract9_trpo\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\Pages\Login.baml
+C:\Users\User\Desktop\pract9_trpo\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\Pages\MainPage.baml
+C:\Users\User\Desktop\pract9_trpo\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\Pages\Reception.baml
+C:\Users\User\Desktop\pract9_trpo\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\Pages\Registration.baml
+C:\Users\User\Desktop\pract9_trpo\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\pract9_trpo.g.resources
+C:\Users\User\Desktop\pract9_trpo\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\pract9_trpo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\pract9_trpo\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\pract9_trpo.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\pract9_trpo\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\pract9_trpo.AssemblyInfo.cs
+C:\Users\User\Desktop\pract9_trpo\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\pract9_trpo.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\pract9_trpo\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\pract9_trpo.dll
+C:\Users\User\Desktop\pract9_trpo\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\refint\pract9_trpo.dll
+C:\Users\User\Desktop\pract9_trpo\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\pract9_trpo.pdb
+C:\Users\User\Desktop\pract9_trpo\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\pract9_trpo.genruntimeconfig.cache
+C:\Users\User\Desktop\pract9_trpo\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\ref\pract9_trpo.dll
+C:\Users\User\Desktop\ебаная 11 практика\pract9_trpo\pract9_trpo\pract9_trpo\pract9_trpo\bin\Debug\net8.0-windows\pract9_trpo.exe
+C:\Users\User\Desktop\ебаная 11 практика\pract9_trpo\pract9_trpo\pract9_trpo\pract9_trpo\bin\Debug\net8.0-windows\pract9_trpo.dll.config
+C:\Users\User\Desktop\ебаная 11 практика\pract9_trpo\pract9_trpo\pract9_trpo\pract9_trpo\bin\Debug\net8.0-windows\pract9_trpo.deps.json
+C:\Users\User\Desktop\ебаная 11 практика\pract9_trpo\pract9_trpo\pract9_trpo\pract9_trpo\bin\Debug\net8.0-windows\pract9_trpo.runtimeconfig.json
+C:\Users\User\Desktop\ебаная 11 практика\pract9_trpo\pract9_trpo\pract9_trpo\pract9_trpo\bin\Debug\net8.0-windows\pract9_trpo.dll
+C:\Users\User\Desktop\ебаная 11 практика\pract9_trpo\pract9_trpo\pract9_trpo\pract9_trpo\bin\Debug\net8.0-windows\pract9_trpo.pdb
+C:\Users\User\Desktop\ебаная 11 практика\pract9_trpo\pract9_trpo\pract9_trpo\pract9_trpo\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\Users\User\Desktop\ебаная 11 практика\pract9_trpo\pract9_trpo\pract9_trpo\pract9_trpo\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\User\Desktop\ебаная 11 практика\pract9_trpo\pract9_trpo\pract9_trpo\pract9_trpo\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\User\Desktop\ебаная 11 практика\pract9_trpo\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\pract9_trpo.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ебаная 11 практика\pract9_trpo\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\Styles\Colors\DarkTheme.baml
+C:\Users\User\Desktop\ебаная 11 практика\pract9_trpo\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\Styles\Colors\DefaultColors.baml
+C:\Users\User\Desktop\ебаная 11 практика\pract9_trpo\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\Styles\UI\Button.baml
+C:\Users\User\Desktop\ебаная 11 практика\pract9_trpo\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\Styles\UI\Controls.baml
+C:\Users\User\Desktop\ебаная 11 практика\pract9_trpo\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\Class\Page1.g.cs
+C:\Users\User\Desktop\ебаная 11 практика\pract9_trpo\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\User\Desktop\ебаная 11 практика\pract9_trpo\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\Pages\ChangingPatient.g.cs
+C:\Users\User\Desktop\ебаная 11 практика\pract9_trpo\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\Pages\CreatePatient.g.cs
+C:\Users\User\Desktop\ебаная 11 практика\pract9_trpo\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\Pages\Login.g.cs
+C:\Users\User\Desktop\ебаная 11 практика\pract9_trpo\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\Pages\MainPage.g.cs
+C:\Users\User\Desktop\ебаная 11 практика\pract9_trpo\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\Pages\Reception.g.cs
+C:\Users\User\Desktop\ебаная 11 практика\pract9_trpo\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\Pages\Registration.g.cs
+C:\Users\User\Desktop\ебаная 11 практика\pract9_trpo\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\User\Desktop\ебаная 11 практика\pract9_trpo\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\pract9_trpo_Content.g.cs
+C:\Users\User\Desktop\ебаная 11 практика\pract9_trpo\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\User\Desktop\ебаная 11 практика\pract9_trpo\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\pract9_trpo_MarkupCompile.cache
+C:\Users\User\Desktop\ебаная 11 практика\pract9_trpo\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\pract9_trpo_MarkupCompile.lref
+C:\Users\User\Desktop\ебаная 11 практика\pract9_trpo\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\App.baml
+C:\Users\User\Desktop\ебаная 11 практика\pract9_trpo\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\Class\Page1.baml
+C:\Users\User\Desktop\ебаная 11 практика\pract9_trpo\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\User\Desktop\ебаная 11 практика\pract9_trpo\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\Pages\ChangingPatient.baml
+C:\Users\User\Desktop\ебаная 11 практика\pract9_trpo\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\Pages\CreatePatient.baml
+C:\Users\User\Desktop\ебаная 11 практика\pract9_trpo\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\Pages\Login.baml
+C:\Users\User\Desktop\ебаная 11 практика\pract9_trpo\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\Pages\MainPage.baml
+C:\Users\User\Desktop\ебаная 11 практика\pract9_trpo\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\Pages\Reception.baml
+C:\Users\User\Desktop\ебаная 11 практика\pract9_trpo\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\Pages\Registration.baml
+C:\Users\User\Desktop\ебаная 11 практика\pract9_trpo\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\pract9_trpo.g.resources
+C:\Users\User\Desktop\ебаная 11 практика\pract9_trpo\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\pract9_trpo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ебаная 11 практика\pract9_trpo\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\pract9_trpo.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ебаная 11 практика\pract9_trpo\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\pract9_trpo.AssemblyInfo.cs
+C:\Users\User\Desktop\ебаная 11 практика\pract9_trpo\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\pract9_trpo.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ебаная 11 практика\pract9_trpo\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\pract9_t.D4934425.Up2Date
+C:\Users\User\Desktop\ебаная 11 практика\pract9_trpo\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\pract9_trpo.dll
+C:\Users\User\Desktop\ебаная 11 практика\pract9_trpo\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\refint\pract9_trpo.dll
+C:\Users\User\Desktop\ебаная 11 практика\pract9_trpo\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\pract9_trpo.pdb
+C:\Users\User\Desktop\ебаная 11 практика\pract9_trpo\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\pract9_trpo.genruntimeconfig.cache
+C:\Users\User\Desktop\ебаная 11 практика\pract9_trpo\pract9_trpo\pract9_trpo\pract9_trpo\obj\Debug\net8.0-windows\ref\pract9_trpo.dll
+C:\Users\viktor\Desktop\11\bin\Debug\net8.0-windows\pract9_trpo.exe
+C:\Users\viktor\Desktop\11\bin\Debug\net8.0-windows\pract9_trpo.dll.config
+C:\Users\viktor\Desktop\11\bin\Debug\net8.0-windows\pract9_trpo.deps.json
+C:\Users\viktor\Desktop\11\bin\Debug\net8.0-windows\pract9_trpo.runtimeconfig.json
+C:\Users\viktor\Desktop\11\bin\Debug\net8.0-windows\pract9_trpo.dll
+C:\Users\viktor\Desktop\11\bin\Debug\net8.0-windows\pract9_trpo.pdb
+C:\Users\viktor\Desktop\11\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\Users\viktor\Desktop\11\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\viktor\Desktop\11\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\viktor\Desktop\11\obj\Debug\net8.0-windows\pract9_trpo.csproj.AssemblyReference.cache
+C:\Users\viktor\Desktop\11\obj\Debug\net8.0-windows\Styles\Colors\DarkTheme.baml
+C:\Users\viktor\Desktop\11\obj\Debug\net8.0-windows\Styles\Colors\DefaultColors.baml
+C:\Users\viktor\Desktop\11\obj\Debug\net8.0-windows\Styles\UI\Button.baml
+C:\Users\viktor\Desktop\11\obj\Debug\net8.0-windows\Styles\UI\Controls.baml
+C:\Users\viktor\Desktop\11\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\viktor\Desktop\11\obj\Debug\net8.0-windows\Pages\ChangingPatient.g.cs
+C:\Users\viktor\Desktop\11\obj\Debug\net8.0-windows\Pages\CreatePatient.g.cs
+C:\Users\viktor\Desktop\11\obj\Debug\net8.0-windows\Pages\Login.g.cs
+C:\Users\viktor\Desktop\11\obj\Debug\net8.0-windows\Pages\MainPage.g.cs
+C:\Users\viktor\Desktop\11\obj\Debug\net8.0-windows\Pages\Reception.g.cs
+C:\Users\viktor\Desktop\11\obj\Debug\net8.0-windows\Pages\Registration.g.cs
+C:\Users\viktor\Desktop\11\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\viktor\Desktop\11\obj\Debug\net8.0-windows\pract9_trpo_Content.g.cs
+C:\Users\viktor\Desktop\11\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\viktor\Desktop\11\obj\Debug\net8.0-windows\pract9_trpo_MarkupCompile.cache
+C:\Users\viktor\Desktop\11\obj\Debug\net8.0-windows\pract9_trpo_MarkupCompile.lref
+C:\Users\viktor\Desktop\11\obj\Debug\net8.0-windows\App.baml
+C:\Users\viktor\Desktop\11\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\viktor\Desktop\11\obj\Debug\net8.0-windows\Pages\ChangingPatient.baml
+C:\Users\viktor\Desktop\11\obj\Debug\net8.0-windows\Pages\CreatePatient.baml
+C:\Users\viktor\Desktop\11\obj\Debug\net8.0-windows\Pages\Login.baml
+C:\Users\viktor\Desktop\11\obj\Debug\net8.0-windows\Pages\MainPage.baml
+C:\Users\viktor\Desktop\11\obj\Debug\net8.0-windows\Pages\Reception.baml
+C:\Users\viktor\Desktop\11\obj\Debug\net8.0-windows\Pages\Registration.baml
+C:\Users\viktor\Desktop\11\obj\Debug\net8.0-windows\pract9_trpo.g.resources
+C:\Users\viktor\Desktop\11\obj\Debug\net8.0-windows\pract9_trpo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\viktor\Desktop\11\obj\Debug\net8.0-windows\pract9_trpo.AssemblyInfoInputs.cache
+C:\Users\viktor\Desktop\11\obj\Debug\net8.0-windows\pract9_trpo.AssemblyInfo.cs
+C:\Users\viktor\Desktop\11\obj\Debug\net8.0-windows\pract9_trpo.csproj.CoreCompileInputs.cache
+C:\Users\viktor\Desktop\11\obj\Debug\net8.0-windows\pract9_t.D4934425.Up2Date
+C:\Users\viktor\Desktop\11\obj\Debug\net8.0-windows\pract9_trpo.dll
+C:\Users\viktor\Desktop\11\obj\Debug\net8.0-windows\refint\pract9_trpo.dll
+C:\Users\viktor\Desktop\11\obj\Debug\net8.0-windows\pract9_trpo.pdb
+C:\Users\viktor\Desktop\11\obj\Debug\net8.0-windows\pract9_trpo.genruntimeconfig.cache
+C:\Users\viktor\Desktop\11\obj\Debug\net8.0-windows\ref\pract9_trpo.dll
+C:\Users\qqwert\Desktop\Новая папка (4)\pract11_trpo-main\bin\Debug\net8.0-windows\pract9_trpo.exe
+C:\Users\qqwert\Desktop\Новая папка (4)\pract11_trpo-main\bin\Debug\net8.0-windows\pract9_trpo.dll.config
+C:\Users\qqwert\Desktop\Новая папка (4)\pract11_trpo-main\bin\Debug\net8.0-windows\pract9_trpo.deps.json
+C:\Users\qqwert\Desktop\Новая папка (4)\pract11_trpo-main\bin\Debug\net8.0-windows\pract9_trpo.runtimeconfig.json
+C:\Users\qqwert\Desktop\Новая папка (4)\pract11_trpo-main\bin\Debug\net8.0-windows\pract9_trpo.dll
+C:\Users\qqwert\Desktop\Новая папка (4)\pract11_trpo-main\bin\Debug\net8.0-windows\pract9_trpo.pdb
+C:\Users\qqwert\Desktop\Новая папка (4)\pract11_trpo-main\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\Users\qqwert\Desktop\Новая папка (4)\pract11_trpo-main\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\qqwert\Desktop\Новая папка (4)\pract11_trpo-main\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\qqwert\Desktop\Новая папка (4)\pract11_trpo-main\obj\Debug\net8.0-windows\pract9_trpo.csproj.AssemblyReference.cache
+C:\Users\qqwert\Desktop\Новая папка (4)\pract11_trpo-main\obj\Debug\net8.0-windows\Styles\Colors\DarkTheme.baml
+C:\Users\qqwert\Desktop\Новая папка (4)\pract11_trpo-main\obj\Debug\net8.0-windows\Styles\Colors\DefaultColors.baml
+C:\Users\qqwert\Desktop\Новая папка (4)\pract11_trpo-main\obj\Debug\net8.0-windows\Styles\UI\Button.baml
+C:\Users\qqwert\Desktop\Новая папка (4)\pract11_trpo-main\obj\Debug\net8.0-windows\Styles\UI\Controls.baml
+C:\Users\qqwert\Desktop\Новая папка (4)\pract11_trpo-main\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\qqwert\Desktop\Новая папка (4)\pract11_trpo-main\obj\Debug\net8.0-windows\Pages\ChangingPatient.g.cs
+C:\Users\qqwert\Desktop\Новая папка (4)\pract11_trpo-main\obj\Debug\net8.0-windows\Pages\CreatePatient.g.cs
+C:\Users\qqwert\Desktop\Новая папка (4)\pract11_trpo-main\obj\Debug\net8.0-windows\Pages\Login.g.cs
+C:\Users\qqwert\Desktop\Новая папка (4)\pract11_trpo-main\obj\Debug\net8.0-windows\Pages\MainPage.g.cs
+C:\Users\qqwert\Desktop\Новая папка (4)\pract11_trpo-main\obj\Debug\net8.0-windows\Pages\Reception.g.cs
+C:\Users\qqwert\Desktop\Новая папка (4)\pract11_trpo-main\obj\Debug\net8.0-windows\Pages\Registration.g.cs
+C:\Users\qqwert\Desktop\Новая папка (4)\pract11_trpo-main\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\qqwert\Desktop\Новая папка (4)\pract11_trpo-main\obj\Debug\net8.0-windows\pract9_trpo_Content.g.cs
+C:\Users\qqwert\Desktop\Новая папка (4)\pract11_trpo-main\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\qqwert\Desktop\Новая папка (4)\pract11_trpo-main\obj\Debug\net8.0-windows\pract9_trpo_MarkupCompile.cache
+C:\Users\qqwert\Desktop\Новая папка (4)\pract11_trpo-main\obj\Debug\net8.0-windows\pract9_trpo_MarkupCompile.lref
+C:\Users\qqwert\Desktop\Новая папка (4)\pract11_trpo-main\obj\Debug\net8.0-windows\App.baml
+C:\Users\qqwert\Desktop\Новая папка (4)\pract11_trpo-main\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\qqwert\Desktop\Новая папка (4)\pract11_trpo-main\obj\Debug\net8.0-windows\Pages\ChangingPatient.baml
+C:\Users\qqwert\Desktop\Новая папка (4)\pract11_trpo-main\obj\Debug\net8.0-windows\Pages\CreatePatient.baml
+C:\Users\qqwert\Desktop\Новая папка (4)\pract11_trpo-main\obj\Debug\net8.0-windows\Pages\Login.baml
+C:\Users\qqwert\Desktop\Новая папка (4)\pract11_trpo-main\obj\Debug\net8.0-windows\Pages\MainPage.baml
+C:\Users\qqwert\Desktop\Новая папка (4)\pract11_trpo-main\obj\Debug\net8.0-windows\Pages\Reception.baml
+C:\Users\qqwert\Desktop\Новая папка (4)\pract11_trpo-main\obj\Debug\net8.0-windows\Pages\Registration.baml
+C:\Users\qqwert\Desktop\Новая папка (4)\pract11_trpo-main\obj\Debug\net8.0-windows\pract9_trpo.g.resources
+C:\Users\qqwert\Desktop\Новая папка (4)\pract11_trpo-main\obj\Debug\net8.0-windows\pract9_trpo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qqwert\Desktop\Новая папка (4)\pract11_trpo-main\obj\Debug\net8.0-windows\pract9_trpo.AssemblyInfoInputs.cache
+C:\Users\qqwert\Desktop\Новая папка (4)\pract11_trpo-main\obj\Debug\net8.0-windows\pract9_trpo.AssemblyInfo.cs
+C:\Users\qqwert\Desktop\Новая папка (4)\pract11_trpo-main\obj\Debug\net8.0-windows\pract9_trpo.csproj.CoreCompileInputs.cache
+C:\Users\qqwert\Desktop\Новая папка (4)\pract11_trpo-main\obj\Debug\net8.0-windows\pract9_t.D4934425.Up2Date
+C:\Users\qqwert\Desktop\Новая папка (4)\pract11_trpo-main\obj\Debug\net8.0-windows\pract9_trpo.dll
+C:\Users\qqwert\Desktop\Новая папка (4)\pract11_trpo-main\obj\Debug\net8.0-windows\refint\pract9_trpo.dll
+C:\Users\qqwert\Desktop\Новая папка (4)\pract11_trpo-main\obj\Debug\net8.0-windows\pract9_trpo.pdb
+C:\Users\qqwert\Desktop\Новая папка (4)\pract11_trpo-main\obj\Debug\net8.0-windows\pract9_trpo.genruntimeconfig.cache
+C:\Users\qqwert\Desktop\Новая папка (4)\pract11_trpo-main\obj\Debug\net8.0-windows\ref\pract9_trpo.dll

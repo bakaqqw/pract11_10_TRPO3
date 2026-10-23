@@ -1,0 +1,162 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\qqwert\\Desktop\\pract10_11\\pract11_trpo-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C1FE5D7-0572-4AF1-9DDD-5B86BE43892A}|pract9_trpo.csproj|c:\\users\\qqwert\\desktop\\pract10_11\\pract11_trpo-main\\pages\\changingpatient.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0C1FE5D7-0572-4AF1-9DDD-5B86BE43892A}|pract9_trpo.csproj|solutionrelative:pages\\changingpatient.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C1FE5D7-0572-4AF1-9DDD-5B86BE43892A}|pract9_trpo.csproj|c:\\users\\qqwert\\desktop\\pract10_11\\pract11_trpo-main\\class\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C1FE5D7-0572-4AF1-9DDD-5B86BE43892A}|pract9_trpo.csproj|solutionrelative:class\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C1FE5D7-0572-4AF1-9DDD-5B86BE43892A}|pract9_trpo.csproj|c:\\users\\qqwert\\desktop\\pract10_11\\pract11_trpo-main\\class\\appointmentstories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C1FE5D7-0572-4AF1-9DDD-5B86BE43892A}|pract9_trpo.csproj|solutionrelative:class\\appointmentstories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C1FE5D7-0572-4AF1-9DDD-5B86BE43892A}|pract9_trpo.csproj|c:\\users\\qqwert\\desktop\\pract10_11\\pract11_trpo-main\\pages\\reception.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0C1FE5D7-0572-4AF1-9DDD-5B86BE43892A}|pract9_trpo.csproj|solutionrelative:pages\\reception.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C1FE5D7-0572-4AF1-9DDD-5B86BE43892A}|pract9_trpo.csproj|c:\\users\\qqwert\\desktop\\pract10_11\\pract11_trpo-main\\pages\\registration.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0C1FE5D7-0572-4AF1-9DDD-5B86BE43892A}|pract9_trpo.csproj|solutionrelative:pages\\registration.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C1FE5D7-0572-4AF1-9DDD-5B86BE43892A}|pract9_trpo.csproj|c:\\users\\qqwert\\desktop\\pract10_11\\pract11_trpo-main\\pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0C1FE5D7-0572-4AF1-9DDD-5B86BE43892A}|pract9_trpo.csproj|solutionrelative:pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C1FE5D7-0572-4AF1-9DDD-5B86BE43892A}|pract9_trpo.csproj|c:\\users\\qqwert\\desktop\\pract10_11\\pract11_trpo-main\\pages\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0C1FE5D7-0572-4AF1-9DDD-5B86BE43892A}|pract9_trpo.csproj|solutionrelative:pages\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C1FE5D7-0572-4AF1-9DDD-5B86BE43892A}|pract9_trpo.csproj|c:\\users\\qqwert\\desktop\\pract10_11\\pract11_trpo-main\\pages\\createpatient.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0C1FE5D7-0572-4AF1-9DDD-5B86BE43892A}|pract9_trpo.csproj|solutionrelative:pages\\createpatient.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C1FE5D7-0572-4AF1-9DDD-5B86BE43892A}|pract9_trpo.csproj|c:\\users\\qqwert\\desktop\\pract10_11\\pract11_trpo-main\\pages\\login.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{0C1FE5D7-0572-4AF1-9DDD-5B86BE43892A}|pract9_trpo.csproj|solutionrelative:pages\\login.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\qqwert\\Desktop\\pract10_11\\pract11_trpo-main\\Class\\Doctor.cs",
+              "RelativeDocumentMoniker": "Class\\Doctor.cs",
+              "ToolTip": "C:\\Users\\qqwert\\Desktop\\pract10_11\\pract11_trpo-main\\Class\\Doctor.cs",
+              "RelativeToolTip": "Class\\Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T19:44:05.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppointmentStories.cs",
+              "DocumentMoniker": "C:\\Users\\qqwert\\Desktop\\pract10_11\\pract11_trpo-main\\Class\\AppointmentStories.cs",
+              "RelativeDocumentMoniker": "Class\\AppointmentStories.cs",
+              "ToolTip": "C:\\Users\\qqwert\\Desktop\\pract10_11\\pract11_trpo-main\\Class\\AppointmentStories.cs",
+              "RelativeToolTip": "Class\\AppointmentStories.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T19:44:03.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\qqwert\\Desktop\\pract10_11\\pract11_trpo-main\\Pages\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\qqwert\\Desktop\\pract10_11\\pract11_trpo-main\\Pages\\MainPage.xaml",
+              "RelativeToolTip": "Pages\\MainPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-23T19:21:27.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreatePatient.xaml",
+              "DocumentMoniker": "C:\\Users\\qqwert\\Desktop\\pract10_11\\pract11_trpo-main\\Pages\\CreatePatient.xaml",
+              "RelativeDocumentMoniker": "Pages\\CreatePatient.xaml",
+              "ToolTip": "C:\\Users\\qqwert\\Desktop\\pract10_11\\pract11_trpo-main\\Pages\\CreatePatient.xaml",
+              "RelativeToolTip": "Pages\\CreatePatient.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-23T19:21:23.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChangingPatient.xaml",
+              "DocumentMoniker": "C:\\Users\\qqwert\\Desktop\\pract10_11\\pract11_trpo-main\\Pages\\ChangingPatient.xaml",
+              "RelativeDocumentMoniker": "Pages\\ChangingPatient.xaml",
+              "ToolTip": "C:\\Users\\qqwert\\Desktop\\pract10_11\\pract11_trpo-main\\Pages\\ChangingPatient.xaml",
+              "RelativeToolTip": "Pages\\ChangingPatient.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-05T15:30:02.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\qqwert\\Desktop\\pract10_11\\pract11_trpo-main\\Pages\\Login.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\Login.xaml.cs",
+              "ToolTip": "C:\\Users\\qqwert\\Desktop\\pract10_11\\pract11_trpo-main\\Pages\\Login.xaml.cs",
+              "RelativeToolTip": "Pages\\Login.xaml.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAqwCwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T15:20:19.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.xaml",
+              "DocumentMoniker": "C:\\Users\\qqwert\\Desktop\\pract10_11\\pract11_trpo-main\\Pages\\Login.xaml",
+              "RelativeDocumentMoniker": "Pages\\Login.xaml",
+              "ToolTip": "C:\\Users\\qqwert\\Desktop\\pract10_11\\pract11_trpo-main\\Pages\\Login.xaml",
+              "RelativeToolTip": "Pages\\Login.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-05T15:20:16.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Registration.xaml",
+              "DocumentMoniker": "C:\\Users\\qqwert\\Desktop\\pract10_11\\pract11_trpo-main\\Pages\\Registration.xaml",
+              "RelativeDocumentMoniker": "Pages\\Registration.xaml",
+              "ToolTip": "C:\\Users\\qqwert\\Desktop\\pract10_11\\pract11_trpo-main\\Pages\\Registration.xaml",
+              "RelativeToolTip": "Pages\\Registration.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-05T15:18:34.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Reception.xaml",
+              "DocumentMoniker": "C:\\Users\\qqwert\\Desktop\\pract10_11\\pract11_trpo-main\\Pages\\Reception.xaml",
+              "RelativeDocumentMoniker": "Pages\\Reception.xaml",
+              "ToolTip": "C:\\Users\\qqwert\\Desktop\\pract10_11\\pract11_trpo-main\\Pages\\Reception.xaml",
+              "RelativeToolTip": "Pages\\Reception.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-05T15:18:19.352Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

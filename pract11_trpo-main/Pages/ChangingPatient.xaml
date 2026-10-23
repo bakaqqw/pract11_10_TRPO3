@@ -1,0 +1,92 @@
+﻿<Page x:Class="pract9_trpo.ChangingPatient"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:pract9_trpo"
+      xmlns:validators="clr-namespace:pract9_trpo.Validation"
+       xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+      mc:Ignorable="d" 
+   Style="{StaticResource MaterialDesignPageStyle}"
+      d:DesignHeight="450" d:DesignWidth="600"
+      Title="ChangingPatient">
+    <Grid>
+
+            <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="150"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="25"/>
+            <RowDefinition Height="500"/>
+        </Grid.RowDefinitions>
+        <StackPanel HorizontalAlignment="Left" Grid.Column="0" Grid.Row="0" Grid.ColumnSpan="2">
+            <TextBlock  Style="{StaticResource MaterialDesignHeaderText}" Text="Изменение информации пациента" FontSize="19" Foreground="{DynamicResource MaterialDesignBody}"/>
+        </StackPanel>
+        <StackPanel Grid.Column="0" Grid.Row="1" Grid.RowSpan="3">
+            <Label Content="Имя:"  Style="{StaticResource MaterialDesignLabel}"  Foreground="{DynamicResource LabelForeground}" Margin="0 10 0 25"/>
+            <Label Content="Фамилия:"  Style="{StaticResource MaterialDesignLabel}"  Foreground="{DynamicResource LabelForeground}" Margin="0 0 0 25"/>
+            <Label Content="Отчество:"  Style="{StaticResource MaterialDesignLabel}"  Foreground="{DynamicResource LabelForeground}" Margin="0 0 0 20"/>
+            <Label Content="Номер телефона:"  Style="{StaticResource MaterialDesignLabel}"  Foreground="{DynamicResource LabelForeground}" Margin="0 0 0 20"/>
+            <Label Content="Дата рождения:"  Style="{StaticResource MaterialDesignLabel}"  Foreground="{DynamicResource LabelForeground}" />
+        </StackPanel>
+        <StackPanel Grid.Column="1" Grid.Row="1" Grid.RowSpan="3">
+
+            <TextBox Name="name"  Style="{StaticResource MaterialDesignTextBox}">
+                <TextBox.Text>
+                    <Binding Path="Name" Mode="TwoWay" UpdateSourceTrigger="PropertyChanged">
+                        <Binding.ValidationRules>
+                            <validators:RequiredRule ValidatesOnTargetUpdated="True"></validators:RequiredRule>
+                        </Binding.ValidationRules>
+                    </Binding>
+                </TextBox.Text>
+            </TextBox>
+         
+
+            <TextBox Name="fam" Style="{StaticResource MaterialDesignTextBox}">
+                <TextBox.Text>
+                    <Binding Path="LastName" Mode="TwoWay" UpdateSourceTrigger="PropertyChanged">
+                        <Binding.ValidationRules>
+                            <validators:RequiredRule ValidatesOnTargetUpdated="True"></validators:RequiredRule>
+                        </Binding.ValidationRules>
+                    </Binding>
+                </TextBox.Text>
+            </TextBox>
+           
+            <TextBox Name="otch" Style="{StaticResource MaterialDesignTextBox}">
+                <TextBox.Text>
+                    <Binding Path="MiddleName" Mode="TwoWay" UpdateSourceTrigger="PropertyChanged">
+                        <Binding.ValidationRules>
+                            <validators:RequiredRule ValidatesOnTargetUpdated="True"></validators:RequiredRule>
+                        </Binding.ValidationRules>
+                    </Binding>
+                </TextBox.Text>
+            </TextBox>
+           
+
+            <TextBox Name="numb" Style="{StaticResource MaterialDesignTextBox}">
+                <TextBox.Text>
+                    <Binding Path="Number" Mode="TwoWay" UpdateSourceTrigger="PropertyChanged">
+                        <Binding.ValidationRules>
+                            <validators:RequiredRule ValidatesOnTargetUpdated="True"></validators:RequiredRule>
+                            <validators:PhoneRule ValidatesOnTargetUpdated="True"></validators:PhoneRule>
+                        </Binding.ValidationRules>
+                    </Binding>
+                </TextBox.Text>
+            </TextBox>
+
+            <DatePicker Name="date"  Style="{StaticResource MaterialDesignDatePicker}">
+                <DatePicker.Text>
+                    <Binding Path="Birthday" Mode="TwoWay" UpdateSourceTrigger="PropertyChanged">
+                        <Binding.ValidationRules>
+                            <validators:RequiredRule ValidatesOnTargetUpdated="True"></validators:RequiredRule>
+                        </Binding.ValidationRules>
+                    </Binding>
+                </DatePicker.Text>
+            </DatePicker>
+
+            <Button Style="{StaticResource MaterialAccentButton}" Content="Сохранить" HorizontalAlignment="Right" Click="Save_Click" />
+            <Button Style="{StaticResource MaterialPrimaryButton}" Content="Назад" HorizontalAlignment="Right"  Click="GoBack_Click" Margin="5"/>
+        </StackPanel>
+    </Grid>
+</Page>
